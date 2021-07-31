@@ -22,6 +22,9 @@
     </build>
     <modules>
         <module>ConsumerProducer</module>
+        <module>TwittterKafkaStream</module>
+        <module>TwitterKafkaConnect</module>
+        <module>TwitterFeedToKafka</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
